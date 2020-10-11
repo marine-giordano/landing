@@ -1,0 +1,20 @@
+.card{
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 6px 15px 40px rgba (0,0,0,0.5);
+	border-radius: 60px;
+	background: turquoise;
+}
+
+.card img{
+	width: 150px;
+	border-radius: 70px; 
+}
+
+.card h3{
+	flex-grow: 4;
+	padding-left: 30px;
+	font-size: 24px;
+}
